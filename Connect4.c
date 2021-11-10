@@ -68,7 +68,6 @@ void printGridWin ( int * grid, int winX, int winY ) {
 }
 
 int hasPlayerWon ( int * grid, int x, int y, int counter ) {
-
   int hasPlayerWonUpDown ( int * grid, int x, int y, int counter ) {
     // We know we are at the top of the column
 
